@@ -1,2 +1,1 @@
-# websites
-nauka
+Pierwsze poważne próby
